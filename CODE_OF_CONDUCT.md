@@ -59,8 +59,13 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project maintainers via GitHub issues or discussions.
+reported privately by contacting the project maintainers at **security@amamus.net**.
 All complaints will be reviewed and investigated promptly and fairly.
+
+> **Note:** Please use the private email address above rather than GitHub issues
+> or discussions for conduct reports, especially those involving harassment or
+> private information. Public reporting exposes the reporter and report contents
+> to the accused and the wider community.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
